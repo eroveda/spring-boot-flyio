@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spring-boot-flyio
 [![Build Status](https://github.com/jonashackt/spring-boot-flyio/workflows/autodeploy/badge.svg)](https://github.com/jonashackt/spring-boot-flyio/actions)
 [![renovateenabled](https://img.shields.io/badge/renovate-enabled-yellow)](https://renovatebot.com)
@@ -379,3 +380,6 @@ https://fly.io/docs/languages-and-frameworks/dockerfile/
 
 
 https://blog.hartleybrody.com/thoughts-on-flyio/"# spring-boot-flyio" 
+=======
+"# spring-boot-flyio" 
+>>>>>>> d74021c0f178fba4ae0c308765815208a6be0692
