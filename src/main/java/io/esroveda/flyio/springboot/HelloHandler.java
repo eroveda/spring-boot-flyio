@@ -1,4 +1,4 @@
-package io.jonashackt.flyio.springboot;
+package io.esroveda.flyio.springboot;
 
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;

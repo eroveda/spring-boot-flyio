@@ -1,4 +1,4 @@
-package io.jonashackt.flyio.springboot;
+package io.esroveda.flyio.springboot;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.http.MediaType;
