@@ -28,7 +28,7 @@ jobs:
       # to pin the GraalVM version (5.12.0 = GraalVM 21.3)
       - name: Build app with pack CLI & publish to GitHub Container Registry
         run: |
-          pack build ghcr.io/jonashackt/spring-boot-flyio:latest \
+          pack build ghcr.io/esroveda/spring-boot-flyio:latest \
               --builder paketobuildpacks/builder:tiny \
               --buildpack paketo-buildpacks/java-native-image@5.12.0 \
               --path . \
